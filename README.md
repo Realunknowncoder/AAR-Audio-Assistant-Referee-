@@ -1,5 +1,3 @@
-# AAR-Audio-Assistant-Referee-
-
 # 📦 AAR (Audio Assistant Referee)
 
 > *No more "I swear I didn't say it" or "I told you earlier"*
