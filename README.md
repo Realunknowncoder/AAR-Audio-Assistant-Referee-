@@ -29,6 +29,12 @@ You can find all the files needed in the PCB folder! Note that if you choose oth
 
 <img width="981" height="485" alt="Screenshot 2026-04-27 233834" src="https://github.com/user-attachments/assets/85e1c811-9e7d-45b4-85c9-a0268fa557c3" />
 
+## ⬇️ Wiring:
+
+Don't want a PCB or want to create your own? No problem, here is the wiring for TheLightThingy:
+
+<img width="729" height="471" alt="Screenshot 2026-04-27 232746" src="https://github.com/user-attachments/assets/489f5841-615e-45ad-acf6-a0edfcf51131" />
+
 
 ## ⬇️ Code:
 
