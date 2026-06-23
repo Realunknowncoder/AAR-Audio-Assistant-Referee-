@@ -47,7 +47,9 @@ For this project to work, you need to use the DIH-Projects library or check the 
 Now in the 3D folder you will find the 3D model built for this project. Please note that the model is designed for the PCB and might need some ajustement if you used a different PCB or components, so feel free to edit it!
 Formats Available: STL - STEP - OBJ
 
-[3D model missing]
+<img width="380" height="304" alt="Screenshot 2026-06-24 000344" src="https://github.com/user-attachments/assets/2460091b-fcb5-4ac5-9b88-d749737ff8d6" />
+<img width="329" height="227" alt="Screenshot 2026-06-24 000336" src="https://github.com/user-attachments/assets/5bbc1f2c-1625-4738-ba9c-ed54a3a09b6a" />
+
 
 
 
