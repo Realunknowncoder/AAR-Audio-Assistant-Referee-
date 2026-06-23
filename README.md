@@ -22,6 +22,8 @@ Hi, I'm Yassine Moustarziq and I am tired of those people who sware they never s
 
 For the components needed you can find them in the component list! It's in dollars, also note that some listings in the BOM list only provide components in bulk, so you might want to research more if you want to only have the exact number of components! Also note that the list was made to work with the 3D Model and the PCB, so if you change the list then note that you might edit those aspects of the project!
 
+<img width="716" height="262" alt="image" src="https://github.com/user-attachments/assets/fa03a385-93b0-4cf8-80a0-b30131fd256f" />
+
 
 ## ⬇️ PCB:
 
